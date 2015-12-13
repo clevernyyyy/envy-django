@@ -2,7 +2,7 @@
 
 ## Standards
 ### Python
- * [pep8](http://legacy.python.org/dev/peps/pep-0008/)
+ * [pep8](https://www.python.org/dev/peps/pep-0008/)
 
 ### Git
  * [gitflow](https://github.com/nvie/gitflow)
